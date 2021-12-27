@@ -160,6 +160,7 @@ main .slogan button:hover {
 }
 
 .products .product-card {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -184,6 +185,21 @@ main .slogan button:hover {
   font-size: 22px;
   margin-bottom: 10px;
   display: block;
+}
+
+.products .product-card span {
+  text-transform: uppercase;
+  position: absolute;
+  left: -15px;
+  top: -10px;
+  background: red;
+  color: #fff;
+  font-weight: 700;
+  padding: 5px;
+  margin-left: 5px;
+  border-radius: 50px;
+  font-size: 25px;
+  transform: rotate(-25deg);
 }
 
 .products .product-card .product-text-content p {
