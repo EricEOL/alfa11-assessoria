@@ -9,6 +9,13 @@
   
     padding: 0 15px;
     z-index: 99;
+
+    transition: 0.4s;
+  }
+
+  .headerScrolled {
+    background: #1a151a;
+    opacity: 0.8;
   }
   
   .logo {
