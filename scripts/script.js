@@ -1,5 +1,13 @@
 const header = document.querySelector('header');
 
+/* window.addEventListener('touchmove', (event) => {
+  if(event.path[5].pageYOffset > 100) {
+    header.classList.add('headerScrolled');
+  } else {
+    header.classList.remove('headerScrolled');
+  }
+}) */
+
 window.addEventListener('scroll', (event) => {
   if(event.path[1].scrollY > 100) {
     header.classList.add('headerScrolled');

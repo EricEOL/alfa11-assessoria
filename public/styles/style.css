@@ -86,7 +86,7 @@ header {
 }
 
 .social-medias li a:hover {
-  background: none;
+  background: none !important;
 }
 
 main {
@@ -136,6 +136,11 @@ main .slogan button {
 
 main .slogan button:hover {
   background: #fff;
+}
+
+main .slogan button a {
+  text-decoration: none;
+  color: #1a151a;
 }
 
 .section-products {
