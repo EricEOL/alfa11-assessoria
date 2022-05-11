@@ -8,6 +8,7 @@ O website da Alfa 11 Assessoria serve como publicidade para uma empresa de educa
 Aqui estão as tecnologias utilizadas nesse projeto.
  
 * Javascript Vanilla
+* CSS3
 
 ## Screenshots
 
