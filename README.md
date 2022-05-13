@@ -1,6 +1,6 @@
 # *Alfa 11 - Assessoria*
  
-O website da Alfa 11 Assessoria serve como publicidade para uma empresa de educação sobre investimentos em ativos financeiros.
+O website da Alfa 11 Assessoria serve como publicidade para uma empresa de educação sobre investimentos em ativos financeiros localizada em Seropédica - Rio de Janeiro.
  
  
 ## Tecnologias 
